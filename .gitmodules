@@ -1,0 +1,4 @@
+[submodule "TCPDF"]
+	path = TCPDF
+	url = https://github.com/tecnickcom/TCPDF.git
+	branch = master
